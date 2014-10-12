@@ -1,2 +1,3 @@
 hehe
 This is the second test.
+Creating a new branch is quick.
